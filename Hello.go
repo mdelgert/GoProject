@@ -5,13 +5,14 @@ import (
 )
 
 func main() {
-	//fmt.Println("Hello world")
-	test1()
-	test2()
-	token := getToken()
-	fmt.Println(token)
+	fmt.Println("Hello main")
+
+	//test1()
+	//test2()
+	//token := getToken()
+	//fmt.Println(token)
 }
 
-func test1() {
-	fmt.Println("Test1")
-}
+//func test1() {
+//	fmt.Println("Test1")
+//}
